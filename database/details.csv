@@ -1,152 +1,151 @@
-﻿Item_id,Course
-1,BA English
-2,BA in Political Science
-3,BA History
-4,BA Psychology
-5,BA Philosophy
-6, BA Social Work
-7,BA Economics
-8,BA Archaeology
-9,BA Sociology
-10,BA Geography
-11,BA Anthropology
-12, BA Linguistics
-13,BA Rural Studies
-14, BA Hindi
-15,BA Bengali
-16, BA Tamil
-17,BA Marathi
-18,BA Telugu
-19,BA Kannada
-20,BA Malayalam
-21,BA Assamese
-22,BA Bihari
-23, BA Odiya
-24,BA Journalism
-25,BA Psychology
-26, BA German
-27,BA French
-28, BA Italian
-29, BA Hebrew
-30, BA Spanish
-31, BA Russian
-32, BA Chinese
-33,BA Japanese
-34, BA Photography
-35,BA Korean
-36, BA Agro Sciences
-37," BA Airlines, Hospitality and Customer care"
-38, BA Ancient History
-39,BA Ancient Indian Culture
-40,BA Arabic
-41,BA Cinematography
-42,BA Corporate Secretaryship
-43,BA Comparative Religion
-44,BA Criminology
-45,BA Culinary Art
-46,BA Defence and Strategic Studies
-47,BA Drawing and Painting
-48,BA Education
-49, BA Punjabi
-50, BA Gujarati
-51,BBA
-52,B.Sc. PCM
-53,B.Sc. Physics
-54,B.Sc. Chemistry
-55,B.Sc. Maths
-56,B.Sc. Zoology
-57,B.Sc. Statistics
-58,B.Sc. Botany
-59,B.Sc. Home Science
-60,B.Sc. Agriculture
-61,B.Sc .Animation
-62,B.Sc. Aquaculture
-63,B.Sc. Aviation
-64,B.Sc. Biochemistry
-65,B.Sc. Bioinformatics
-66,B.Sc. Computer Science
-67,B.Sc. Dietetics
-68,B.Sc. Electronic
-69,B.Sc. Fashion Technology
-70,B.Sc. Food Technology
-71,B.Sc. Forensic Science
-72,B.Sc.Forestry
-73,B.Sc.Medical Technology
-74,B.Sc.Microbiology
-75,B.Sc. Multimedia
-76,B.Sc. Nautical Science
-77,B.Sc. Nursing
-78,B.Sc. Nutrition
-79,B.Sc. Physiotherapy
-80,B.Sc. Psychology
-81,B.Sc. Genetics
-82,B.Sc. Information Technology
-83,B.Sc. Interior Design
-84,B.Sc. BioTechnology
-85,B. Comm
-86,LLB 
-87,Aerospace Engineering
-88,Agriculture & Food Engineering
-89,Automobile Engineering
-90,Biotechnology Engineering
-91,Ceramic Engineering
-92,Chemical Engineering
-93,Civil Engineering
-94,Computer Engineering
-95,Electrical Engineering
-96,Electronics Engineering
-97,Engineering Physics
-98,Environmental Engineering
-99,Industrial and Production Engineering
-100,Industrial Engineering
-101,Information Technology Engineering
-102,Instrumentation Engineering
-103,Marine Engineering
-104,Mechanical Engineering
-105,Metallurgical Engineering
-106,Naval Architecture and Ocean Engineering
-107,Petroleum Engineering
-108,Textile Engineering
-109,Production and Industrial Engineering
-110,Structural Engineering
-111,Motorsport Engineering
-112,Fire Protection Engineering
-113,Naval Engineering
-114,Corrosion engineering
-115,Materials engineering
-116,Molecular engineering
-117,Process engineering
-118,Corrosion engineering
-119,Environmental engineering
-120,Water resources engineering
-121,MBBS
-122,BDS
-123,B.SC. NURSING
-124,B.PHARM. -BACHELOR OF PHARMACY
-125, PHARM D
-126,BHMS
-127,BUMS
-128,BPT -PHYSIOTHERAPY
-129,B.V.SC. & A.H.
-130, BOT -BACHELOR OF OCCUPATIONAL THERAPY
-131, BASLP -BACHELOR OF AUDIOLOGY SPEECH LANGUAGE PATHOLOGY
-132,B.Sc. Environmental Science
-133,B.Sc. Biotechnology
-134,B.Sc. Occupational Therapy
-135,B.Sc. Physiotherapy
-136,B.Sc. Radiology
-137,B.Sc. Bioinformatics
-138,B.Sc. Anthropology
-139,B.Sc. Microbiology
-140,B.Sc. Zoology
-141,B.Sc. Forensic Science
-142,B.Sc. Agriculture
-143,B.Sc. Pathology
-144,B.Sc. Speech Therapy
-145,B.F.Sc. Fisheries Science
-146,B.Sc. Horticulture
-147,B.Sc. Genetics
-148,B.Sc. Health Science and Nutrition
-149,B.Sc. Sports Science
-150,B.Sc. Audiology
-151,B.Sc. Botany
+Item_id,Course
+1,ba_english
+2,ba_political_science
+3,ba_history
+4,ba_psychology
+5,ba_philosophy
+6,ba_social_work
+7,ba_economics
+8,ba_archaeology
+9,ba_sociology
+10,ba_geography
+11,ba_anthropology
+12,ba_linguistics
+13,ba_rural_studies
+14,ba_hindi
+15,ba_bengali
+16,ba_tamil
+17,ba_marathi
+18,ba_telugu
+19,ba_kannada
+20,ba_malayalam
+21,ba_assamese
+22,ba_bihari
+23,ba_odiya
+24,ba_journalism
+25,ba_psychology
+26,ba_german
+27,ba_french
+28,ba_italian
+29,ba_hebrew
+30,ba_spanish
+31,ba_russian
+32,ba_chinese
+33,ba_japanese
+34,ba_photography
+35,ba_korean
+36,ba_agro_sciences
+37,"ba_airlines, hospitality_and_custome_care"
+38,ba_ancient_history
+39,ba_ancient_indian_culture
+40,ba_arabic
+41,ba_cinematography
+42,ba_corporate_secretaryship
+43,ba_comparative_religion
+44,ba_criminology
+45,ba_culinary_art
+46,ba_defence_and_strategic_studies
+47,ba_drawing_and_painting
+48,ba_education
+49,ba_punjabi
+50,ba_gujarati
+51,bba
+52,bsc_pcm
+53,bsc_physics
+54,bsc_chemistry
+55,bsc_maths
+56,bsc_zoology
+57,bsc_statistics
+58,bsc_botany
+59,bsc_home_science
+60,bsc_agriculture
+61,bsc_animation
+62,bsc_aquaculture
+63,bsc_aviation
+64,bsc_biochemistry
+65,bsc_bioinformatics
+66,bsc_computer_science
+67,bsc_dietetics
+68,bsc_electronic
+69,bsc_fashion_technology
+70,bsc_food_technology
+71,bsc_forensic_science
+72,bsc_forestry
+73,bsc_medical_technology
+74,bsc_microbiology
+75,bsc_multimedia
+76,bsc_nautical_science
+77,bsc_nursing
+78,bsc_nutrition
+79,bsc_physiotherapy
+80,bsc_psychology
+81,bsc_genetics
+82,bsc_information_technology
+83,bsc_interior_design
+84,bsc_biotechnology
+85,b_com
+86,llb 
+87,aerospac_engineering
+88,agriculture_and_food_engineering
+89,automobile_engineering
+90,biotechnology_engineering
+91,ceramic_engineering
+92,chemical_engineering
+93,civil_engineering
+94,computer_engineering
+95,electrical_engineering
+96,electronics_engineering
+97,engineering_physics
+98,environmental_engineering
+99,industrial_and_production_engineering
+100,industrial_engineering
+101,information_technology_engineering
+102,instrumentation_engineering
+103,marine_engineering
+104,mechanical_engineering
+105,metallurgical_engineering
+106,naval_architecture_and_ocean_engineering
+107,petroleum_engineering
+108,textile_engineering
+109,production_and_industrial_engineering
+110,structural_engineering
+111,motorsport_engineering
+112,fire_protection_engineering
+113,naval_engineering
+114,corrosion_engineering
+115,materials_engineering
+116,molecular_engineering
+117,process_engineering
+118,corrosion_engineering
+119,environmental_engineering
+120,water_resources_engineering
+121,mbbs
+122,bds
+123,bsc_nursing
+124,bpharm_bachelor_of_pharmacy
+125, pharm_d
+126,bhms
+127,bums
+128,bpt_physiotherapy
+129,bot_bachelor_of_occupational_therapy
+130,baslp_bachelor_of_audiology_speech_language_pathology
+131,bsc_environmental_science
+132,bsc_biotechnology
+133,bsc_occupational_therapy
+134,bsc_physiotherapy
+135,bsc_radiology
+136,bsc_bioinformatics
+137,bsc_anthropology
+138,bsc_microbiology
+139,bsc_zoology
+140,bsc_forensic_science
+141,bsc_agriculture
+142,bsc_pathology
+143,bsc_speech_therapy
+144,bfsc_fisheries_science
+145,bsc_horticulture
+146,bsc_genetics
+147,bsc_health_science_and_nutrition
+148,bsc_sports_science
+149,bsc_audiology
+150,bsc_botany
