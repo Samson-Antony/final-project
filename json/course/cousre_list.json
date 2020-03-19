@@ -1,117 +1,27 @@
 [
     {
-        "title": "Cumin seed(சீரகம்)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sa_cumin.jpg/1280px-Sa_cumin.jpg",
-        "wiki_en": "https://en.m.wikipedia.org/wiki/Cumin",
-        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%9A%E0%AF%80%E0%AE%B0%E0%AE%95%E0%AE%AE%E0%AF%8D"
+        "title": "B.A English"
     },
     {
-        "title": "Trigonella(வெந்தயம்)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Trigonella_foenum-graecum_kz04.jpg/428px-Trigonella_foenum-graecum_kz04.jpg",
-        "wiki_en": "https://en.m.wikipedia.org/wiki/Trigonella",
-        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%B5%E0%AF%86%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AF%E0%AE%AE%E0%AF%8D"
+        "title": "B.A Political Science"
     },
     {
-        "title": "Acalphaindica(குப்பைமேனி)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Acalypha_indica.JPG/800px-Acalypha_indica.JPG",
-        "wiki_en": "https://en.m.wikipedia.org/wiki/Acalypha_indica",
-        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%88%E0%AE%AE%E0%AF%87%E0%AE%A9%E0%AE%BF"
+        "title": "B.A History"
     },
     {
-        "title": "Basil(துளசி)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Plant%2C_wild_basil.JPG/800px-Plant%2C_wild_basil.JPG",
-        "wiki_en": "https://en.m.wikipedia.org/wiki/Basil",
-        "wiki_ta": "https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%81%E0%AE%B3%E0%AE%9A%E0%AE%BF"
+        "title": "B.A Psychology"
     },
     {
-        "title": "Ginger(இஞ்சி)",
-        "img_url": "https://cdn.pixabay.com/photo/2018/08/04/16/58/ginger-3584005_960_720.jpg",
-        "wiki_en": "https://en.m.wikipedia.org/wiki/Ginger",
-        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%87%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BF"
+        "title": "B.A Political Science"
     },
     {
-        "title": "Uthamani leaf(வேலிபருத்தி)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/A_View_of_kuppaimeni_-herbs.jpg/800px-A_View_of_kuppaimeni_-herbs.jpg",
-        "wiki_en": "https://en.m.wikipedia.org/wiki/Pergularia_daemia",
-        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%B5%E0%AF%87%E0%AE%B2%E0%AE%BF%E0%AE%AA%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF"
+        "title": "B.A Political Science"
     },
     {
-        "title": "Leaves of camphor(கருப்பூரம்)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cinnamomum_camphora_002.JPG/799px-Cinnamomum_camphora_002.JPG",
-        "wiki_en": "https://www.hunker.com/13428568/facts-on-the-camphor-tree",
-        "wiki_ta": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AF%82%E0%AE%B0%E0%AE%AE%E0%AF%8D"
+        "title": "B.A Political Science"
     },
     {
-        "title": "Mango nuts(மா விதை)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Mango_Alphonso06_Asit.jpg",
-        "wiki_en": "https://en.m.wikipedia.org/wiki/Sternochetus_mangiferae",
-        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%AE%E0%AE%BE_(%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AE%BF%E0%AE%A9%E0%AE%AE%E0%AF%8D)"
+        "title": "B.A Political Science"
     },
-    {
-        "title": "Guava(கொய்யாப் பழம்)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Guava_ID.jpg",
-        "wiki_en": "https://en.wikipedia.org/wiki/Guava",
-        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%95%E0%AF%8A%E0%AE%AF%E0%AF%8D%E0%AE%AF%E0%AE%BE%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%B4%E0%AE%AE%E0%AF%8D"
-    },
-    {
-        "title": "Dried Ginger(உலர்ந்த இஞ்சி)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dried_Ginger.jpg",
-        "wiki_en": "https://www.google.com/amp/s/tcmwiki.com/amp/dried-ginger",
-        "wiki_ta": "https://descubrir.online/ta/%E0%AE%87%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BF-%E0%AE%9A%E0%AE%BE%E0%AE%B1%E0%AF%81/"
-    },
-    {
-        "title": "Long Pepper(திப்பிலி)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Long_pepper.JPG/800px-Long_pepper.JPG",
-        "wiki_en": "https://en.m.wikipedia.org/wiki/Long_pepper",
-        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B2%E0%AE%BF"
-    },
-    {
-        "title": "Almond(பாதம் கொட்டை)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Almond-Badam-001.jpg",
-        "wiki_en": "https://en.m.wikipedia.org/wiki/Almond",
-        "wiki_ta": "https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BE%E0%AE%A4%E0%AF%81%E0%AE%AE%E0%AF%88"
-    },
-    {
-        "title": "Lemon peel(எலுமிச்சை தலாம்)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lemon-edit1.jpg",
-        "wiki_en": "https://en.wikipedia.org/?title=Lemon_peel&redirect=no",
-        "wiki_ta": "https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%B2%E0%AF%81%E0%AE%AE%E0%AE%BF%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%88"
-    },
-    {
-        "title": "Vineger(வினிகர்)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vinegar_infused_with_oregano.jpg/200px-Vinegar_infused_with_oregano.jpg",
-        "wiki_en": "https://en.m.wikipedia.org/wiki/Vinegar",
-        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%AA%E0%AF%81%E0%AE%B3%E0%AE%BF%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AE%BF"
-    },
-    {
-        "title": "Onion extract(வெங்காய சாறு)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mixed_onions.jpg/330px-Mixed_onions.jpg",
-        "wiki_en": "https://en.wikipedia.org/wiki/Onion",
-        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%B5%E0%AF%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%AF%E0%AE%AE%E0%AF%8D"
-    },
-    {
-        "title": "Jatropha(ஜட்ரோபா)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Redflowers8.jpg/330px-Redflowers8.jpg",
-        "wiki_en": "https://en.wikipedia.org/wiki/Jatropha",
-        "wiki_ta": "https://ta.crushingplants.info/3559-jatropha.html"
-    },
-    {
-        "title": "Sesame oil(எள் எண்ணெய்)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sesame_oil.jpg",
-        "wiki_en": "https://en.wikipedia.org/wiki/Sesame_oil",
-        "wiki_ta": "https://ta.m.wikipedia.org/wiki/%E0%AE%AA%E0%AE%9F%E0%AE%BF%E0%AE%AE%E0%AE%AE%E0%AF%8D:Sesame_oil.jpg"
-    },
-    {
-        "title": "Black pepper(கருமிளகு)",
-        "img_url": "http://img.dinakaran.com/Healthnew/H_image/ht44517029165.jpg",
-        "wiki_en": "https://en.wikipedia.org/wiki/Black_pepper",
-        "wiki_ta": "https://www.maalaimalar.com/health/arokiyamtopnews/2017/10/17084122/1123466/pepper-medical-benefits.vpf"
-    },
-    {
-        "title": "Papaya milk(பப்பாளி பால்)",
-        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Papaya_cross_section_BNC.jpg/330px-Papaya_cross_section_BNC.jpg",
-        "wiki_en": "https://en.wikipedia.org/wiki/Papaya",
-        "wiki_ta": "https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%B3%E0%AE%BF"
-    }
     
 ]
