@@ -12,16 +12,416 @@
         "title": "B.A Psychology"
     },
     {
-        "title": "B.A Political Science"
+        "title": "B.A Philosophy"
     },
     {
-        "title": "B.A Political Science"
+        "title": "B.A Social Work"
     },
     {
-        "title": "B.A Political Science"
+        "title": "B.A Economics"
     },
     {
-        "title": "B.A Political Science"
-    }
+        "title": "B.A Archaeology"
+    },
+    {
+        "title": "B.A Sociology"
+    },
+    {
+        "title": "B.A Geography"
+    },
+    {
+        "title": "B.A Anthropology"
+    },
+    {
+        "title": "B.A Linguistics"
+    },
+    {
+        "title": "B.A Rural Studies"
+    },
+        {
+        "title": "B.A Hindi"
+    },
+    {
+        "title": "B.A Bengali"
+    },
+    {
+        "title": "B.A Tamil"
+    },
     
+    {
+        "title": "B.A Marathi"
+    },
+    {
+        "title": "B.A Telugu"
+    },
+    {
+        "title": "B.A Kannada"
+    },
+    {
+        "title": "B.A Malayalam"
+    },
+    {
+        "title": "B.A Assamese"
+    },
+    {
+        "title": "B.A Bihari"
+    },
+    {
+        "title": "B.A Odiya"
+    },
+    {
+        "title": "B.A Journalism"
+    },
+    {
+        "title": "B.A Psychology"
+    },
+        {
+        "title": "B.A German"
+    },
+    {
+        "title": "B.A French"
+    },
+    {
+        "title": "B.A Italian"
+    },
+    {
+        "title": "B.A Hebrew"
+    },
+    {
+        "title": "B.A Spanish"
+    },
+    {
+        "title": "B.A Russian"
+    },
+    {
+        "title": "B.A Chinese"
+    },
+    {
+        "title": "B.A Japanese"
+    },
+    {
+        "title": "B.A Photography"
+    },
+    {
+        "title": "B.A Korean"
+    },
+    {
+        "title": "B.A Agro Sciences"
+    },
+    {
+        "title": "B.A Airlines,Hospitality And CustomeCare"
+    },
+    {
+        "title": "B.A Ancient History"
+    },
+    {
+        "title": "B.A Ancient Indian Culture"
+    },
+    {
+        "title": "B.A Arabic"
+    },
+    {
+        "title": "B.A Cinematography"
+    },
+    {
+        "title": "B.A Corporate Secretaryship"
+    },
+    {
+        "title": "B.A Comparative_Religion"
+    },
+    {
+        "title": "B.A Criminology"
+    },
+    {
+        "title": "B.A Culinary Art"
+    },
+    {
+        "title": "B.A Defence And Strategic Studies"
+    },
+    {
+        "title": "B.A Drawing And Painting"
+    },
+    {
+        "title": "B.A Education"
+    },
+    {
+        "title": "B.A Punjabi"
+    },
+        {
+        "title": "B.A Gujarati"
+    },
+    {
+        "title": "BBA "
+    },
+    {
+        "title": "B.Sc PCM"
+    },
+    {
+        "title": "B.Sc Physics"
+    },
+    {
+        "title": "B.Sc Chemistry"
+    },
+    {
+        "title": "B.Sc Maths"
+    },
+    {
+        "title": "B.Sc Zoology"
+    },
+    {
+        "title": "B.Sc Statistics"
+    },
+    {
+        "title": "B.Sc Botany"
+    },
+    {
+        "title": "B.Sc Home Science"
+    },
+    {
+        "title": "B.Sc Agriculture"
+    },
+    {
+        "title": "B.Sc Animation"
+    },
+    {
+        "title": "B.Sc Aquaculture"
+    },
+    {
+        "title": "B.Sc Aviation"
+    },
+    {
+        "title": "B.Sc Biochemistry"
+    },
+    {
+        "title": "B.Sc Bioinformatics"
+    },
+    {
+        "title": "B.Sc Computer Science"
+    },
+    {
+        "title": "B.Sc Dietetics"
+    },
+    {
+        "title": "B.Sc Electronic"
+    },
+    {
+        "title": "B.Sc Fashion Technology"
+    },
+    {
+        "title": "B.Sc Food Technology"
+    },
+    {
+        "title": "B.Sc Forensic Science"
+    },
+    {
+        "title": "B.Sc Forestry"
+    },
+    {
+        "title": "B.Sc Medical Technology"
+    },
+    {
+        "title": "B.Sc Microbiology"
+    },
+    {
+        "title": "B.Sc Multimedia"
+    },
+    {
+        "title": "B.Sc Nautical Science"
+    },
+    {
+        "title": "B.Sc Nursing"
+    },
+    {
+        "title": "B.Sc Nutrition"
+    },
+    {
+        "title": "B.Sc Physiotherapy"
+    },
+    {
+        "title": "B.Sc Psychology"
+    },
+    {
+        "title": "B.Sc Genetics"
+    },
+    {
+        "title": "B.Sc Information Technology"
+    },
+    {
+        "title": "B.Sc Interior_Design"
+    },
+    {
+        "title": "B.Sc Biotechnology"
+    },
+    {
+        "title": "B.Com"
+    },
+    {
+        "title": "LLB"
+    },
+    {
+        "title": "Aerospace Engineering"
+    },
+    {
+        "title": "Agriculture And Food Engineering"
+    },
+    {
+        "title": "Automobile Engineering"
+    },
+    {
+        "title": "Biotechnology Engineering"
+    },
+    {
+        "title": "Ceramic Engineering"
+    },
+    {
+        "title": "Chemical Engineering"
+    },
+    {
+        "title": "Civil Engineering"
+    },
+    {
+        "title": "Computer Engineering"
+    },
+    {
+        "title": "Electrical Engineering"
+    },
+    {
+        "title": "Electronics Engineering"
+    },
+    {
+        "title": "Engineering Physics"
+    },
+    {
+        "title": "Environmental Engineering"
+    },
+    {
+        "title": "Industrial And Production Engineering"
+    },
+    {
+        "title": "Industrial Engineering"
+    },
+    {
+        "title": "Information Technology Engineering"
+    },
+    {
+        "title": "Instrumentation Engineering"
+    },
+    {
+        "title": "Marine Engineering"
+    },
+    {
+        "title": "Mechanical Engineering"
+    },
+    {
+        "title": "Metallurgical Engineering"
+    },
+    {
+        "title": "Naval Architecture And Ocean Engineering"
+    },
+    {
+        "title": "Petroleum Engineering"
+    },
+    {
+        "title": "Textile Engineering"
+    },
+    {
+        "title": "Production And Industrial Engineering"
+    },
+    {
+        "title": "Structural Engineering"
+    },
+    {
+        "title": "Motorsport Engineering"
+    },
+    {
+        "title": "Fire Protection Engineering"
+    },
+    {
+        "title": "Naval Engineering"
+    },
+    {
+        "title": "Corrosion Engineering"
+    },
+    {
+        "title": "Materials Engineering"
+    },
+    {
+        "title": "Molecular Engineering"
+    },
+    {
+        "title": "Process Engineering"
+    },
+    {
+        "title": "Corrosion Engineering"
+    },
+    {
+        "title": "Water Resources Engineering"
+    },
+    {
+        "title": "MBBS"
+    },
+    {
+        "title": "BDS"
+    },
+    {
+        "title": "B.Sc Nursing"
+    },
+    {
+        "title": "B.Pharm Bachelor Of Pharmacy"
+    },
+    {
+        "title": "Pharm D"
+    },
+    {
+        "title": "BHMS"
+    },
+    {
+        "title": "BUMS"
+    },
+    {
+        "title": "Bpt Physiotherapy"
+    },
+    {
+        "title": "Bot Bachelor Of Occupational Therapy"
+    },
+    {
+        "title": "BASLP Bachelor Of Audiology Speech Language Pathology"
+    },
+    {
+        "title": "B.Sc Environmental Science"
+    },
+    {
+        "title": "B.Sc Occupational Therapy"
+    },
+    {
+        "title": "B.Sc Radiology"
+    },
+    {
+        "title": "B.Sc Bioinformatics"
+    },
+    {
+        "title": "B.Sc Anthropology"
+    },
+    {
+        "title": "B.Sc Forensic Science"
+    },
+    {
+        "title": "B.Sc Pathology"
+    },
+    {
+        "title": "B.Sc Speech Therapy"
+    },
+    {
+        "title": "B.Sc Fisheries Science"
+    },
+    {
+        "title": "B.Sc Health Science And Nutrition"
+    },
+    
+    {
+        "title": "B.Sc Sports Science"
+    },
+    {
+        "title": "B.Sc Audiology"
+    }
 ]
