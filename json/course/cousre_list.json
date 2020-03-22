@@ -362,5 +362,82 @@
         "eligibility": "Eligibility for the course is 10+2 cleared.",
         "work": "There are number of opportunities after completing B.SC. Pcm such as IT companies, teaching organizations, Scientific companies and industries, etc..",
         "bestclg": "SSV College. Uttar Pradesh,A.E.S. National College. Karnataka"
+    },
+    {
+         "title": "B.SC. Physics",
+        "content": "B.Sc. Physics is an undergraduate program dealing with the nuances of Physics and its various properties. The course duration is 3 years.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Physics such as Content Developer, Treasury Management Specialist, Quality Control Manager, Statistician, Radiologist, etc.",
+        "bestclg": "Ramakrishna Mission Vivekananda College. Chennai,Ethiraj College for Women. Chennai"
     },     
+    {
+         "title": "B.SC. Chemistry",
+        "content": "Bachelor of Science in Chemistry or B.Sc. Chemistry is an undergraduate course which introduces students to the fundamentals of chemical sciences. It is a 3-year course and is divided into 6 semesters. For distance program, the minimum duration is 3 years and the maximum duration is 6 years.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Chemistry such as Chemist, Pharma Assistant, Lab Assistant, Clinical Research Associate and others such.",
+        "bestclg": "Ramakrishna Mission Vivekananda College. Chennai,Ethiraj College for Women. Chennai"
+    },   
+   {
+         "title": "B.SC. Maths ",
+        "content": "B.Sc. Maths is an undergraduate degree in the domain of Mathematical studies. The course aims at providing knowledge about disciplines of Maths such as Calculus, Differentiation, Integration, Linear programming, etc.It is a 3-year professional degree course pursued by aspirants willing to make a career in the Mathematical domain and related disciplines.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Maths such as Research, Academia, Technical institutes, Software Development Companies, Banks, Political, Military or Intelligence Bodies, etc.",
+        "bestclg": "Ramakrishna Mission Vivekananda College. Chennai,Ethiraj College for Women. Chennai"   
+   },
+    {
+         "title": "B.SC. Zoology",
+        "content": "B.Sc. Zoology is a professional undergraduate degree course in Animal Biology. It is a 3-year course comprising six semesters in most universities.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Zoology such as Bioinformatics,Ecosystem monitoring,Wildlife conservation,Environmental management",
+        "bestclg": "Mount Carmel College. Bangalore,St. Xavier’s College. Ahmedabad"
+    },
+   {
+         "title": "B.SC. Statistics ",
+        "content": "Bachelor of Science in Statistics or B.Sc. Statistics is a 3-year undergraduate course in statistics, probability and permutations.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Statistics such as Banking industry,Financial Services,Broking Industries,Accounting and Finance,Academic and Educational Institutions etc.",
+        "bestclg": "Christ University. Bangalore,PSG College of Arts & Science. Coimbatore"   
+   }, 
+   {
+         "title": "B.SC. Botany ",
+        "content": "Bachelor of Science in Botany or simply B.Sc. Botanyis an undergraduate degree course for a 3-year duration. The course deals with the study of plants and their physiology, anatomy, reproduction etc.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Botany such as Plant Pathologist, Nursery Manager, Ecologist, Plant Explorer, Conservationist, etc.",
+        "bestclg": "Kongunadu Arts and Science College. Coimbatore,PSG College of Arts & Science. Coimbatore"   
+   },      
+  {
+         "title": "B.SC. Home Science ",
+        "content": "B.Sc in Home Science or Bachelor of Science in Home Science is one of many interdisciplinary courses that combine ideas from science and arts for the well being of a home and its man-made surroundings. B.Sc in Home Science is a bachelor's science degree with course duration of 3 years which is divided into 6 semesters..",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Home Science such as Assistant Dress Designer, Nutrition Expert, Child Care Giver, Cook/Chef, Demonstrator, Food Analyst, Food Scientist, Health Care Worker, Hospital Attendant, Housekeeper, Nanny etc.",
+        "bestclg": "Kongunadu Arts and Science College. Coimbatore,PSG College of Arts & Science. Coimbatore"   
+   }, 
+    {
+         "title": "B.SC. Agriculture",
+        "content": "B.Sc. Agriculture is a 4-year professional undergraduate degree.This course involves the study of agriculture sciences and the use of modern scientific equipment and techniques in agriculture, land surveying, soil science, water resource management, animal, and poultry management, basics of biotechnology, etc.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Agriculture such as Agriculture officer, Assistant Plantation Manager, Agricultural Research Scientist, Agriculture Development Officers, Agriculture Technician, Agriculturists, Business Development Executive, Marketing Executive, etc. ",
+        "bestclg": "Tamil Nadu Agricultural University. Coimbatore,PSG College of Arts & Science. Coimbatore"   
+   },  
+    {
+         "title": "B.SC. Animation",
+        "content": "B.Sc. Animation is a 3- year undergraduate course. It combines traditional theory with application-based modules to equip students with the necessary skills to pursue a career in the field. The curriculum includes basic training in computer-generated animation, application of software programs such as Photoshop and Flash, and training in the more specialized techniques used in animation.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Animation such as Animation media industry jobs",
+        "bestclg": "VELS University. Chennai,PSG College of Arts & Science. Coimbatore"   
+   },    
+   {
+         "title": "B.SC. Aquaculture",
+        "content": "B.Sc. Aquaculture is a 3- year undergraduate course. Aquaculture is connected science and no more pragmatic level and is something other than fish cultivating.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Aquaculture such as bioinformatics, nourishment industry, biotechnology, pharmaceutical industry, explore organizations and in water protection. ",
+        "bestclg": "Tamil Nadu Agricultural University. Coimbatore,PSG College of Arts & Science. Coimbatore"   
+   }, 
+      {
+         "title": "B.SC. Aviation",
+        "content": "B.Sc. in Aviation (B.Sc. AV)is an undergraduate course in science and operations in flying airplanes, helicopters, gliders etc. B.Sc. Aquaculture is a 3- year undergraduate course.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Aviation such as aviation industry and aerospace firms jobs.",
+        "bestclg": "CMC College. Coimbatore,Air Carnival Aviation Academy City Campus. Coimbatore"   
+   }  
 ]
