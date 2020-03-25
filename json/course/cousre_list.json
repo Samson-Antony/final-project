@@ -267,7 +267,7 @@
     },
     {
         "title": "B.A Ancient Indian Culture",
-        "content": "B.A Ancient Indian Culture course is a 3-year undergraduate course dealing with the Ancient Indian History, Culture & Archaeology. Typically, a B.A. is a three year course. Ancient Indian History, Culture and Archaeology focuses only on the Indian history and culture in the past. Subjects usually studied under this degree are History of India, Ancient History of India, Medieval History of India, Economical History of India, Social Structures in India and Historiography etc. ",
+        "content": "B.A Ancient Indian Culture course dealing with the Ancient Indian History, Culture & Archaeology. Typically, a B.A. is a three year course. Ancient Indian History, Culture and Archaeology focuses only on the Indian history and culture in the past. Subjects usually studied under this degree are History of India, Ancient History of India, Medieval History of India, Economical History of India, Social Structures in India and Historiography etc. ",
         "eligibility": "Eligibility for the course is 10+2 cleared.",
         "work": "There are number of opportunities after completing BA in AAncient Indian Culture such as Archaeologist,Historic buildings inspector/conservation officer,Museum/gallery curator,Heritage manager,Lecturer,Documentation Specialist,Museum education officer ",
         "bestclg": "Alagappa University College of Arts and Science. Paramakudi,Velammal College Of Engineering And Technology VCET. Madurai"
@@ -439,5 +439,54 @@
         "eligibility": "Eligibility for the course is 10+2 cleared.",
         "work": "There are number of opportunities after completing B.SC. Aviation such as aviation industry and aerospace firms jobs.",
         "bestclg": "CMC College. Coimbatore,Air Carnival Aviation Academy City Campus. Coimbatore"   
-   }  
+   },  
+   {
+         "title": "B.SC. Biochemistry",
+        "content": "B.Sc. Biochemistry is a 3- year undergraduate course. It is the study of using Chemical processes and principles in studying biological process and living matter.  It is a branch of science which deals with chemistry which is applied to the study of living organisms and the atoms and molecules which comprise living organisms.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Biochemistry such as  Clinical Researcher, Research Scientist, Lecturer, Professor Etc",
+        "bestclg": "Ethiraj College for Women. Chennai,Queen Mary’s College. Chennai"   
+   },     
+   {
+         "title": "B.SC. Bioinformatics",
+        "content": "B.Sc. Bioinformatics is a 3- year undergraduate course. Bioinformatics or computational biology is an interdisciplinary field of science that combines computer science, mathematics, engineering and statistics to understand and interpret biological information”. It is the application of computer technology to the management of biological data.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Bioinformatics such as  Bioinformatics Software Developer,Research Scientist / Associate,Network Administrator / Analyst,Computational Biologist,Database Programmer,Science Technician Etc",
+        "bestclg": "Vels Institute of Science, Technology and Advanced Studies (VISTAS). Chennai,Stella Maris College. Chennai"   
+   },   
+    {
+         "title": "B.SC. Computer Science",
+        "content": "B.Sc. Computer Science is a 3-year undergraduate program which deals with subjects and topics related to computer application and services. Technological implementation of computer systems is the main agenda of the program. The program ranges widely from creating quality professionals and research fellows who are working in every sector of the world today.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Computer Science such as  DTP Operator, Software Engineer, Developer/Programmer, Project Manager (IT), Program Analyst, Teacher/Lecturer.  Etc",
+        "bestclg": "VELS University. Chennai,Mount Carmel College. Bangalore"   
+   },
+  {
+         "title": "B.SC. Dietetics",
+        "content": "B.Sc. in  Dietetics is a 3- year long full- time undergraduate course divided over 6 semesters. It involves the study of food management, promotion of health through healthy food, and primarily focusses on the relationship between the body and food.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Dietetics such as  Consultant, Food Show Host, Sports Nutritionist, Nutrition Trainer Etc",
+        "bestclg": "Aiman College of Arts and Science for Women. Trichy,Annai Violet Arts and Science College. Chennai."   
+   }, 
+   {
+         "title": "B.SC. Electronic",
+        "content": "B.Sc. in Electronics is an undergraduate course which introduces students to the fundamentals of electrical circuits such as transistors, vacuum tubes, integrated circuits and diodes. It is a 3 year course and is divided in 6 semesters.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Electronic such as Service engineer, Software analyst, Senior sales manager, Electronics and Communication Consultant Etc",
+        "bestclg": "Annamalai University. Chennai,Bangalore City College. Bangalore"   
+   },
+  {
+         "title": "B.SC. Fashion Technology",
+        "content": "B.Sc. in  Fashion Technology is a 3- year long full- time undergraduate course divided over 6 semesters. It involves advanced study of the art of the application of design and aesthetics to clothing and accessories. It aims to prepare eligible candidates for contributing significantly to the booming domain of fashion technology.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Fashion Technology such as Project Manager, Fashion Designer, Logistic Executive, Lecturer, Fashion Designer Faculty trainer, Business Development Officer, e-Commerce Manager Etc",
+        "bestclg": "National Institute of Fashion Technology (NIFT). Bangalore,National Institute of Fashion Technology (NIFT). Chennai."   
+   },   
+  {
+         "title": "B.SC. Food Technology",
+        "content": "B.Sc. Food Technology is a 3-year undergraduate course involving an advanced study of the techniques and activities involved in preserving, processing, and manufacturing of food.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Food Technology such as Food Technologists, Organic Chemists, Biochemists, Analytical Chemists, Home Economists, Research Scientists, Senior Food Technologist, Head Engineer, Production Manager, Assistant, General Manager, Senior Manager, Recruiters, and such.",
+        "bestclg": "Dr. Punjabrao Deshmukh Krishi Vidyapeeth. Akola,Hindustan University. Chennai."   
+   },      
 ]
