@@ -558,6 +558,75 @@
         "eligibility": "Eligibility for the course is 10+2 cleared.",
         "work": "There are number of opportunities after completing B.SC. Psychology such as Clinical Psychologist, Sports Psychologist, Researcher, Teacher, Lecturer, and such.",
         "bestclg": "PSG College of Arts & Science. Coimbatore,Avinashilingam University. Coimbatore."   
+   }, 
+  {
+         "title": "B.SC. Genetics",
+        "content": "B.Sc Genetics is a 3-year undergraduate course. Genetics is the field of medicine that explores concepts and processes of heredity, genetic variation, and genes in living beings. It is also known called the science of heredity.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Genetics such as Geneticists,Epidemiologist,Biophysicist,Genomics and such.",
+        "bestclg": "PSG College of Arts & Science. Coimbatore,Tamilnadu Colleges. Coimbatore."   
+   }, 
+  {
+        "title": "B.SC. Information Technology",
+        "content": "B.Sc Information Technology is a 3-year undergraduate course. B.Sc. IT program revolves around the field of Information Technology, which is essentially about storing, processing, securing, and managing information. Networks, software development and testing, information databases, and programming etc. are some of the subjects of study covered in the course.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Information Technology such as Programmers, PHP Developer, Oracle PL/SQL Developer, Quality Analyst, IT Specialists, Technology Engineer, Technical Consultant, Software Developer, Graphic Designer, and such.",
+        "bestclg": "Sankara College of Science and Commerce. Coimbatore,Hindusthan college of arts and science. Coimbatore."   
    },    
-    
+  {
+        "title": "B.SC. Interior Design",
+        "content": "B.Sc. Interior Design is a 3 year undergraduate course in which students learn to design comfortable spaces and anticipate people’s needs.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC. Interior Design such as Interior Designer,Furniture Designer,Visual Merchandiser,Exhibition Designer,Landscape Designer,3D Artist,CAD Designer",
+        "bestclg": "National College Of Design. Chennai,Madras Institute of Fashion Technology. Chennai."   
+   }, 
+  {
+        "title": "B.SC. Biotechnology",
+        "content": "B.Sc. in Biotechnology is a 3- year undergraduate course, involving an advanced study of the cellular and bimolecular processes for development of a variety of technologies and products that contribute to improving people’s lives and health.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing B.SC.  Biotechnology such as Bio Industry, Government Hospitals, Research Labs, Content Writing (Medical), etc.",
+        "bestclg": "Stella Maris College. Chennai,Madras Christian College (MCC). Chennai."   
+   },  
+  {
+        "title": "BCom",
+        "content": "BCom is a 3-Year undergraduate course and it has been specially designed to provide managerial skills and knowledge about the streams like banking, finance, and accounting to a student.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing BCom such as Tax Practitioner, Junior Accountant, etc.",
+        "bestclg": "Stella Maris College. Chennai,Madras Christian College (MCC). Chennai."   
+   },   
+  {
+        "title": "LLB",
+        "content": "LLB or Legum Baccalaureus is an undergraduate law degree which is a prerequisite for anyone who wants to enter the field of judiciary and law. The course is of 3 years and can only be pursued if you have already completed your graduation in any stream.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing LLB such as Advocate, Paralegal, private Practice, legal Administrator, Junior Lawyer, Law Lecturer, Law Officer, Law Associate, etc.",
+        "bestclg": "Government Law College. Madurai,Tamil Nadu Dr. Ambedkar Law University. Chennai."   
+   },    
+  {
+        "title": "Aerospace Engineering",
+        "content": "B.Tech. Aerospace Engineering is a four-year undergraduate program in engineering. Aerospace Engineering deals with the aircraft that stay within the atmosphere of earth and also with those that operates outside the earth’s atmosphere. It is an applied discipline of engineering dealing with making, designing, manufacturing, functioning, and maintenance of vehicles such as aircraft, spacecraft, and missiles.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Aerospace Engineering such as Design Engineer, Sales Engineer, Development Engineer, Sensor Engineer, Team Leader, Filtration manager",
+        "bestclg": "KCT Department Of Aeronautical Engineering. Coimbatore,Hindusthan College of Engineering And Technology. Coimbatore."   
+   }, 
+  {
+        "title": "Agriculture and Food Engineering",
+        "content": "B.Tech. Agriculture and Food Engineering is a four-year undergraduate program in engineering. Agricultural Engineering is a branch of engineering which deals with the study of agricultural process and technological practices in food processing and efficient production of food. Agriculture is the largest participant in the Indian Economy. It is needless to say that a career in Agriculture in India is nothing but bright and shining.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Agriculture and Food Engineering such as  Agri-business firms, food processing, agricultural research and development firms, government sectors,research scientist, lecturer, microbiologist etc. ",
+        "bestclg": "Tamil Nadu Agricultural University. Coimbatore,Hindusthan College of Engineering And Technology. Coimbatore."   
+   }, 
+  {
+        "title": "Automobile Engineering",
+        "content": "B.Tech. Automobile Engineering is a four-year undergraduate program in engineering. B.Tech program in Automobile engineering deals with the study of various engines and their construction, electrical systems, alternative fuels, safety, economics and quality of an automobile.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Automobile Engineering such as Production or Designing, Development and Manufacturing field.",
+        "bestclg": "PSG College Of Technology. Coimbatore,Government College of Technology. Coimbatore."   
+   },     
+ {
+        "title": "Biotechnology Engineering",
+        "content": "B.E. Biotechnology is a 4-year graduate degree program. Biotechnology engineering is a branch of applied biology and chemical engineering standards that includes the utilization of living things in technology, engineering, medicine, and various useful applications.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Biotechnology Engineering such as Biotechnology expert, Biotechnology patent analyst, a Biotechnology executive, Research associate, Maintenance engineer, Laboratory Assistant, Professor, Associate Professor, etc..",
+        "bestclg": "PSG College Of Technology. Coimbatore,Government College of Technology. Coimbatore."   
+   }      
 ]
