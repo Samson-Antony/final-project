@@ -624,9 +624,142 @@
    },     
  {
         "title": "Biotechnology Engineering",
-        "content": "B.E. Biotechnology is a 4-year graduate degree program. Biotechnology engineering is a branch of applied biology and chemical engineering standards that includes the utilization of living things in technology, engineering, medicine, and various useful applications.",
+        "content": "B.E. Biotechnology is a 4-year undergraduate degree program. Biotechnology engineering is a branch of applied biology and chemical engineering standards that includes the utilization of living things in technology, engineering, medicine, and various useful applications.",
         "eligibility": "Eligibility for the course is 10+2 cleared.",
         "work": "There are number of opportunities after completing Biotechnology Engineering such as Biotechnology expert, Biotechnology patent analyst, a Biotechnology executive, Research associate, Maintenance engineer, Laboratory Assistant, Professor, Associate Professor, etc..",
         "bestclg": "PSG College Of Technology. Coimbatore,Government College of Technology. Coimbatore."   
-   }      
+   },
+  {
+        "title": "Ceramic Engineering",
+        "content": "B.Tech. Ceramic Engineering is a four-year undergraduate program in engineering. B.Tech in Ceramic Engineering is amongst the new engineering specializations that covers the production and manufacturing of ceramic products for use in different industries.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Ceramic Engineering such as Polymer Chemist,Research Assistant,Research Engineer,Ceramic Sales Manager,Senior Research Fellow,Ceramic Technologist,Ceramic Designer etc. ",
+        "bestclg": "Anna University. Chennai,PSG College Of Technology. Coimbatore."   
+   }, 
+  {
+        "title": "Chemical Engineering",
+        "content": "B.E Chemical Engineering is a full-time undergraduate program in Chemical Engineering. The course spans for a duration of 4 years. B.E Chemical Engineering introduces the students to the principles of chemistry linking it to engineering in order to explain the problems involved in production and use of chemicals. The subject draws a connection between science and its application to manufacturing sectors.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Chemical Engineering such as Chemical Engineer, Site Engineer, Fire & Safety Officer, Technical Operator etc. ",
+        "bestclg": "Hindustan University. Chennai,Coimbatore Institute of Technology. Coimbatore."   
+   }, 
+ {
+        "title": "Civil Engineering",
+        "content": "B.E. Civil Engineering is a 4-year full-time undergraduate engineering course. Biotechnology engineering is a branch of applied biology and chemical engineering standards that includes the utilization of living things in technology, engineering, medicine, and various useful applications.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Civil Engineering such as Civil Engineer, Architect, Technical Officer, Manager, Business analyst, Assistant Executive Engineer.",
+        "bestclg": "PSG College Of Technology. Coimbatore,Coimbatore Institute of Technology. Coimbatore."   
+   },  
+ {
+        "title": "Computer Engineering",
+        "content": "B.E. Computer Engineering is a 4-year full-time undergraduate engineering course. Bachelor of Engineering [BE] (Computer Engineering)is designed for graduate students who are interested in computer applications. This program allows students to seek professional knowledge in computer applications.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Computer Engineering such as Postsecondary Teacher, Computer and Information Research Scientist, Computer Hardware Engineer, IT support analyst, Network Engineer and IT consultant, Programmers, PHP Developer, Oracle PL/SQL Developer, Quality Analyst, IT Specialists, Technology Engineer, Technical Consultant, Software Developer, Graphic Designer etc.",
+        "bestclg": "PSG College Of Technology. Coimbatore,Indian Institute of Technology Madras - [IITM]. Chennai."   
+   },
+  {
+        "title": "Electrical Engineering",
+        "content": "BTech Electrical Engineering is a 4-year full-time undergraduate engineering course. Electrical Engineering is that branch of Engineering which deals with the study of application of electricity, electronics and electromagnetism.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Electrical Engineering such as Electrical Application Engineer,Network Design Engineer,Test Engineer,Systems Engineer etc.",
+        "bestclg": "PSG College Of Technology. Coimbatore,Kumaraguru College of Technology. Coimbatore."   
+   },  
+  {
+        "title": "Electronics Engineering",
+        "content": "B.E. Electronics Engineering is a three-year course. B.E. Electronics Engineering covers Communication Engineering, Microelectronics, VLSI & Embedded Systems, Signal Processing, Instrumentation Engineering, and Electromagnetic and Microwave.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Electronics Engineering such as Lecturer/Professor, Electronics and Communications Consultant, Network Planning Engineer, Customer Support Engineer, Instrumentation Engineer, Technical Director, Field Test Engineer, Senior Sales Manager, Database Administrator etc.",
+        "bestclg": "PSG College Of Technology. Coimbatore,Indian Institute of Technology Madras - [IITM]. Chennai."   
+   },   
+   {
+        "title": "Engineering Physics",
+        "content": "B. Tech. Engineering Physics is an undergraduate degree program for four academic years. B. Tech.Engineering Physics course is about the engineering skills and the specialization in the study of physics and its applications. The course is a combination of the theoretical concepts and application of the theory part of the concepts of physics.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Engineering Physics such as Industrial Engineer,Research Scientist,Physicists,Financial Analyst etc.",
+        "bestclg": "Indian Institute of Technology. New Delhi,Indian Institute of Technology Madras - [IITM]. Chennai."   
+   },    
+   {
+        "title": "Environmental Engineering",
+        "content": "B. Tech. Environmental Engineering is a 4-year undergraduate program. It deals with Environmental Sciences that includes a list of topics, some of which are air pollution control, hazardous waste management, public health, land management etc.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Environmental Engineering such as Public Health Specialists,Ecologists,Chemical Engineers,Biologists,Agricultural Engineers etc.",
+        "bestclg": "Coimbatore Institute of Technology. Coimbatore,National Environmental Engineering Research Center. Chennai."   
+   },  
+   {
+        "title": "Industrial and Production Engineering",
+        "content": "B.Tech. in Industrial and Production Engineering is a 4 year undergraduate course. B.Tech. Industrial and Production Engineering equips the student with the knowledge of planning, measuring and controlling all the production and industrial related activities.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Industrial and Production Engineering such as financial management, material management, operations research, network modelling, production planning and control fields.",
+        "bestclg": "Indian Institute of Technology. New Delhi,The National Institute of Engineering. Mysore."   
+   },      
+   {
+        "title": "Industrial Engineering",
+        "content": "B. Tech Industrial Engineering is a 4-year undergraduate course divided into 8 semesters. Objective of industrial engineering is to provide understanding of design, research & development section, manufacturing, operations and services.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Industrial and Production Engineering such as Quality Managers,Project Engineer,Operation Managers etc..",
+        "bestclg": "VIT university. Vellor,Indian Institute of Technology. Kharagpur."   
+   },    
+   {
+        "title": "Information Technology Engineering",
+        "content": "BE Information Technology is a 4 year Under Graduate course in the domain of computer science with a specialization in the area of Information Technology and its related aspects.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Information Technology Engineering such as Database Administrator, IT System Manager, System administrator, Technical Trainer, Software developer, Project lead etc.",
+        "bestclg": "RV College of Engineering. Bangalore,BMS College of Engineering. Bangalore."   
+   },   
+   {
+        "title": "Instrumentation Engineering",
+        "content": "B.E. in Instrumentation Engineering is a 4-year full-time undergraduate course. B.E. in Instrumentation Engineering course is a multidisciplinary course which covers major branches such as electronics and electrical engineering.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Instrumentation Engineering such as Instrumentation Design Engineer,Technical Support Engineer etc.",
+        "bestclg": "M.S. Ramaiah Institute of Technology. Bangalore,BMS College of Engineering. Bangalore."   
+   },    
+   {
+        "title": "Marine Engineering",
+        "content": "B.E. Marine Engineering  is a full-time undergraduate Engineering course. The duration of this course is 4 years divided into 8 semesters. B.E. Marine Engineering course involve instruction in the design and maintenance of propulsion systems and design of steering of tankers, submarines, sailboats, and other marine vessels.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Marine Engineering such as Port manager, Maritime educator, Second marine engineer, Ship manager, Ship operator, Marine surveyor, Chief marine engineer, Technical superintendent.",
+        "bestclg": "Southern academy of maritime studies. Chennai,Anna University of Technology. Chennai."   
+   },       
+   {
+        "title": "Mechanical Engineering",
+        "content": "B.E. Mechanical Engineering is a 4-year full-time undergraduate Engineering course. B.E. Mechanical Engineering course introduces fundamental concepts of machine design system and machine operation.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Mechanical Engineering such as Mechanical engineer, Service Engineer, Consultant, Instructional designer, Mechanical designer.",
+        "bestclg": "Sri Krishna College of Engineering and Technology. Coimbatore,PSG College of Engineering. Coimbatore."   
+   },      
+   {
+        "title": "Metallurgical Engineering",
+        "content": "B.E. Metallurgical Engineering is a 4-year full-time undergraduate Engineering course. Metallurgical engineering is study of metal. The course offers combined study of theory and practice, this program covers the mining, extraction, design and processing of metals along with fundamental engineering principles.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Metallurgical Engineering such as Project Engineer,Research Assistant,Assistant Engineers.",
+        "bestclg": "Coimbatore Institute of Technology. Coimbatore,Indian Institute of Technology. Chennai."   
+   },      
+   {
+        "title": "Naval Architecture and Ocean Engineering",
+        "content": "B.E. Naval Architecture and Ocean Engineering is a 4-year full-time undergraduate Engineering course. The course aims at preparing Naval Architects and Offshore Engineers to meet the growing demands of manpower in the industry by imparting academic and practical training on basic science subjects and common engineering subjects. The course typically covers Physics, Hydrodynamics, Chemistry and Ship Design.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Naval Architecture and Ocean Engineering such as Port Manager, Chief Marine Engineer, Technical Superintendent, Marine Surveyor, Ship Operator and Second Marine Engineer.",
+        "bestclg": "VELS Academy. Chennai,Indian Institute of Technology. Chennai."   
+   }, 
+  {
+        "title": "Petroleum Engineering",
+        "content": "B. Tech Petroleum Engineering is a 4-year full-time undergraduate Engineering course. B. Tech Petroleum Engineering is an interesting field of engineering offering various specialization courses that deal with the production of hydrocarbons, which can either be natural gas or crude oil.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Petroleum Engineering such as Petroleum Engineer,Production Engineer,Reservoir Engineer, PNG, CNG Operation & Distribution Engineer,Pipeline Transportation Engineer.",
+        "bestclg": "M. S Engineering College. Bangalore,Indian Institute of Technology. Chennai."   
+   },     
+ {
+        "title": "Textile Engineering",
+        "content": "B. Tech Petroleum Engineering is a 4-year full-time undergraduate Engineering course. Textile Engineering with the objective of imparting all-inclusive knowledge in all the aspects of textile manufacturing which include Garment manufacturing,Textile Chemical Processing,Computer applications,Textile testing,Yarn manufacturing,Fabric Manufacturing (Woven and Knitted),Quality assurance,Mill management In order to expose the persons into the engineering environment of the textile industries.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Textile Engineering such as Sales Engineer,Resident application Engineer,Service Engineer,Quality control executive,etc.",
+        "bestclg": "SSM College of Engineering. Salem,Indian Institute of Technology. New Delhi."   
+   },     
+ {
+        "title": "Structural Engineering",
+        "content": "Bachelor of Technology in Structural Engineering is a 4- year undergraduate course. B.Tech in Structural Engineering includes advanced finite element analysis, structural mechanics, structural dynamics, reinforced and pre-stressed concrete, steel structures, tall buildings and towers, construction designs resistant to wind and earthquakes ensuring structural reliability along with computer applications in structural engineering.",
+        "eligibility": "Eligibility for the course is 10+2 cleared.",
+        "work": "There are number of opportunities after completing Structural Engineering such as Planning Engineer,Assistant Engineer,Project Engineer,Site Engineer etc.",
+        "bestclg": "PSG College Of Technology. Coimbatore,Kumaraguru College of Technology. Coimbatore."   
+   }       
 ]
