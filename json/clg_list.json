@@ -1,19 +1,20 @@
 [
 {
-  "college name" :  " Alpha Arts and Science College ",
+  "collegename" :  " Alpha Arts and Science College ",
   "description" :  "Alpha Arts and Science College (AASC) is run by the Alpha Educational Society, a non-profit educational body registered under the societies registration act, 1860. The College, started in the year 1996, is a private, unaided, co-educational arts and science institution approved by the Government of Tamilnadu with permanent affiliation to the University of Madras and accredited with ‘A’ Grade, the highest rate by NAAC.The college is affiliated to the University of Madras with Choice Based Credit System and follows the semester pattern with mandatory extension activities, value education and soft skills. The Under Graduate programmes are for duration of three years leading to Degrees awarded by the University of Madras on successful completion of academic requirements and passing the University examinations prescribed for the course during the six semesters under Choice Based Credit System (CBCS).",
   "address" :  "OMR on Road Campus No.30,Tundalam Road,Chettiyar Agaram Road Behind Ramachandra Hospital Porur, Chennai, Tamil, Nadu, Tamil Nadu 600116",
   "longitude" : " 80.142289 ",
   "latitude" :  " 13.045989 ",
   "extra" : " The Training and Placement Cell helps students determine their educational and career goals, acquire career-oriented skills and attain desired employment. It trains them in group discussions, aptitude tests, numerical ability and technical facets, conducts mock interviews and organizes recruitment drives both off and on campus. It has a full time Placement Officer. ",
- "offical college webpage" :  " https://alphagroup.edu/arts-science/ "
+ "webpage" :  " https://alphagroup.edu/arts-science/ "
  },
 {
-  "college name" :  "Arignar Anna Government Arts College",
+  "collegename" :  "Arignar Anna Government Arts College",
   "description" :  "Topographically, the college is circumfused by Kalvarayan hills and Vasishta river on the north and Kolli-Pachamalai hills and Swetha (Vellar-white river) river on the South. Both the rivers derive their name after the Pandava Arjuna (Swetavahana) and Sage Vasishta respectively. The serenity of its surroundings is revealed by its copsy appearance favors the institution pleasant academic environs. Historical evidences show the antiquity of the area as well. The archaeological discoveries of the nearest places and epigraphical records testify the prehistoric dwellings of the area too. Despite, it will be worthy to mention about the Bana chieftains of Magadaimandalam during the medieval period. Banses established their headquarters at Aragalur very close to Vadachennimalai. Aragalur was in the Arrur Kurran of Jananatha Valanadu, of a subdivision of Magadaimandalam in the medieval Tamil Nadu. The epigraphical records show that the Banas were the feudatories of the imperial Cholas and Pandyas",
   "address" : " Arignar Anna Government Arts College, Vadachennimalai, Tamil Nadu 636121",
   "longitude" : "76.971260",
   "latitude" :  "10.995960",
   "extra" : "This College is surrounded by many tribal villages. Hostel facilities are provided by Tamilnadu Backward class, Most Backward class & Minorities Welfare Departments & AdiDravidar and Tribal Welfare Department. Men & Women students at the vicinity of the College. It is an opportunity for  the  poor students from the surrounding  area for continuing their higher education. Those students who have got admission in the  first year are eligible to apply for the same and the concerned welfare department choose the students as per norms and conditions. Totally Four Hostels are located adjacent to  the College Campus. Pure water facility , food , accommodation, play ground and  toilet facility are provided by the hostel administration. Naturally a good peaceful  study environment is held here. A hostel warden is appointed for each hostel to  take care of hostellers. Further a cook, helpers and scavengers are also working in the hostels",
-  "offical college webpage" :  "http://www.aagacattur.org.in/"
- },
+  "webpage" :  "http://www.aagacattur.org.in/"
+ }
+]
