@@ -1,7 +1,4 @@
-/usr/local/lib/python3.6/dist-packages/numpy/lib/function_base.py: 2526: RuntimeWarning: Degrees of freedom <= 0 for slice
-  c = cov(x, y, rowvar)
-/usr/local/lib/python3.6/dist-packages/numpy/lib/function_base.py: 2455: RuntimeWarning: divide by zero encountered in true_divide
-  c *= np.true_divide(1, fact)
+
 [
   {
     "favcour": "#ba_english#ba_history#g2",
