@@ -1,17 +1,17 @@
 
 [
   {
-    "favcour": "#ba_english#ba_history#g2",
+    "favcour": "#ba_english#ba_history#CompSci-Maths",
     "favcourcorl": "#1.0#0.2672612419124244#0.21627614555592958",
     "input": "ba_english"
   },
   {
-    "favcour": "#ba_political_science#ba_psychology#g1#g3",
+    "favcour": "#ba_political_science#ba_psychology#Biology-Maths#economics/arts",
     "favcourcorl": "#1.0#0.9999999999999999#0.13245323570650436#0.13245323570650436",
     "input": "ba_political_science"
   },
   {
-    "favcour": "#ba_history#ba_ancient_history#ba_english#ba_ancient_indian_culture#g2",
+    "favcour": "#ba_history#ba_ancient_history#ba_english#ba_ancient_indian_culture#CompSci-Maths",
     "favcourcorl": "#1.0#0.549399185367928#0.2672612419124244#0.26024171938480806#0.16035674514745465",
     "input": "ba_history"
   },
@@ -21,17 +21,17 @@
     "input": "ba_psychology"
   },
   {
-    "favcour": "#ba_philosophy#ba_psychology#g3#ba_hindi",
+    "favcour": "#ba_philosophy#ba_psychology#economics/arts#ba_hindi",
     "favcourcorl": "#0.9999999999999998#0.6708203932499369#0.4274373669939282#0.3333333333333333",
     "input": "ba_philosophy"
   },
   {
-    "favcour": "#ba_social_work#g3",
+    "favcour": "#ba_social_work#economics/arts",
     "favcourcorl": "#1.0#0.5144957554275266",
     "input": "ba_social_work"
   },
   {
-    "favcour": "#ba_economics#g3",
+    "favcour": "#ba_economics#economics/arts",
     "favcourcorl": "#1.0#0.3110855084191276",
     "input": "ba_economics"
   },
@@ -46,7 +46,7 @@
     "input": "ba_sociology"
   },
   {
-    "favcour": "#ba_geography#g1",
+    "favcour": "#ba_geography#Biology-Maths",
     "favcourcorl": "#1.0#0.6000000000000002",
     "input": "ba_geography"
   },
@@ -61,7 +61,7 @@
     "input": "ba_linguistics"
   },
   {
-    "favcour": "#ba_rural_studies#g3",
+    "favcour": "#ba_rural_studies#economics/arts",
     "favcourcorl": "#1.0#0.42257712736425834",
     "input": "ba_rural_studies"
   },
@@ -76,7 +76,7 @@
     "input": "ba_bengali"
   },
   {
-    "favcour": "#ba_tamil#g1",
+    "favcour": "#ba_tamil#Biology-Maths",
     "favcourcorl": "#1.0#0.5960395606792698",
     "input": "ba_tamil"
   },
@@ -116,7 +116,7 @@
     "input": "ba_odiya"
   },
   {
-    "favcour": "#ba_journalism#g3",
+    "favcour": "#ba_journalism#economics/arts",
     "favcourcorl": "#1.0#0.6831300510639732",
     "input": "ba_journalism"
   },
@@ -161,12 +161,12 @@
     "input": "ba_chinese"
   },
   {
-    "favcour": "#ba_japanese#g3",
+    "favcour": "#ba_japanese#economics/arts",
     "favcourcorl": "#0.9999999999999999#0.9999999999999999",
     "input": "ba_japanese"
   },
   {
-    "favcour": "#ba_photography#g3",
+    "favcour": "#ba_photography#economics/arts",
     "favcourcorl": "#1.0#0.9707253433941512",
     "input": "ba_photography"
   },
@@ -176,12 +176,12 @@
     "input": "ba_korean"
   },
   {
-    "favcour": "#ba_agro_sciences#g3",
+    "favcour": "#ba_agro_sciences#economics/arts",
     "favcourcorl": "#0.9999999999999999#0.9999999999999999",
     "input": "ba_agro_sciences"
   },
   {
-    "favcour": "#ba_airlines, hospitality_and_custome_care#ba_defence_and_strategic_studies#bsc_maths#g3",
+    "favcour": "#ba_airlines, hospitality_and_custome_care#ba_defence_and_strategic_studies#bsc_maths#economics/arts",
     "favcourcorl": "#1.0#0.9999999999999999#0.9999999999999999#0.6831300510639732",
     "input": "ba_airlines, hospitality_and_custome_care"
   },
@@ -216,22 +216,22 @@
     "input": "ba_comparative_religion"
   },
   {
-    "favcour": "#g1#ba_criminology#g3",
+    "favcour": "#Biology-Maths#ba_criminology#economics/arts",
     "favcourcorl": "#1.0#0.9999999999999999#0.9999999999999999",
     "input": "ba_criminology"
   },
   {
-    "favcour": "#ba_culinary_art#g3",
+    "favcour": "#ba_culinary_art#economics/arts",
     "favcourcorl": "#1.0#0.8660254037844385",
     "input": "ba_culinary_art"
   },
   {
-    "favcour": "#ba_defence_and_strategic_studies#ba_airlines, hospitality_and_custome_care#bsc_maths#g3#g1",
+    "favcour": "#ba_defence_and_strategic_studies#ba_airlines, hospitality_and_custome_care#bsc_maths#economics/arts#Biology-Maths",
     "favcourcorl": "#1.0#0.9999999999999999#0.9999999999999999#0.9449111825230678#0.576556660197055",
     "input": "ba_defence_and_strategic_studies"
   },
   {
-    "favcour": "#ba_drawing_and_painting#bsc_interior_design#textile_engineering#g1#g3",
+    "favcour": "#ba_drawing_and_painting#bsc_interior_design#textile_engineering#Biology-Maths#economics/arts",
     "favcourcorl": "#1.0#0.8660254037844387#0.4999999999999999#0.42562826537937426#0.2553769592276245",
     "input": "ba_drawing_and_painting"
   },
@@ -251,7 +251,7 @@
     "input": "ba_gujarati"
   },
   {
-    "favcour": "#b_com#bba#bsc_computer_science#g2",
+    "favcour": "#b_com#bba#bsc_computer_science#CompSci-Maths",
     "favcourcorl": "#1.0#0.9999999999999999#0.9999999999999999#0.1509031106344268",
     "input": "bba"
   },
@@ -261,27 +261,27 @@
     "input": "bsc_pcm"
   },
   {
-    "favcour": "#bsc_physics#bsc_chemistry#g2#bsc_information_technology",
+    "favcour": "#bsc_physics#bsc_chemistry#CompSci-Maths#bsc_information_technology",
     "favcourcorl": "#1.0#0.6725596245673174#0.43082021842766455#0.2401922307076307",
     "input": "bsc_physics"
   },
   {
-    "favcour": "#bsc_chemistry#petroleum_engineering#bsc_physics#g2#bsc_biochemistry#bsc_maths",
+    "favcour": "#bsc_chemistry#petroleum_engineering#bsc_physics#CompSci-Maths#bsc_biochemistry#bsc_maths",
     "favcourcorl": "#1.0#0.9999999999999999#0.6725596245673174#0.4445906192369001#0.15947323018612516#0.08559209850218258",
     "input": "bsc_chemistry"
   },
   {
-    "favcour": "#bsc_maths#ba_airlines, hospitality_and_custome_care#engineering_physics#ba_defence_and_strategic_studies#mechanical_engineering#bsc_statistics#g1#bsc_computer_science#g3#bsc_chemistry",
+    "favcour": "#bsc_maths#ba_airlines, hospitality_and_custome_care#engineering_physics#ba_defence_and_strategic_studies#mechanical_engineering#bsc_statistics#Biology-Maths#bsc_computer_science#economics/arts#bsc_chemistry",
     "favcourcorl": "#1.0#0.9999999999999999#0.9999999999999999#0.9999999999999999#0.9999999999999999#0.9433674358115995#0.3497753177207346#0.32483762177352626#0.18511804120656908#0.08559209850218256",
     "input": "bsc_maths"
   },
   {
-    "favcour": "#bfsc_fisheries_science#bsc_food_technology#bsc_biochemistry#bsc_zoology#bsc_information_technology#bpharm_bachelor_of_pharmacy#biotechnology_engineering#bsc_health_science_and_nutrition#marine_engineering#bsc_microbiology#bsc_botany#water_resources_engineering#g1#bsc_genetics",
+    "favcour": "#bfsc_fisheries_science#bsc_food_technology#bsc_biochemistry#bsc_zoology#bsc_information_technology#bpharm_bachelor_of_pharmacy#biotechnology_engineering#bsc_health_science_and_nutrition#marine_engineering#bsc_microbiology#bsc_botany#water_resources_engineering#Biology-Maths#bsc_genetics",
     "favcourcorl": "#0.9999999999999999#0.9999999999999999#0.9999999999999999#0.9999999999999998#0.9999999999999998#0.944911182523068#0.8660254037844385#0.6933752452815366#0.5000000000000001#0.20005557871442567#0.18460367521516027#0.13005121775247103#0.09904226986143264#0.03316790634033297",
     "input": "bsc_zoology"
   },
   {
-    "favcour": "#bsc_statistics#bsc_maths#g1#bsc_computer_science#g3#g2",
+    "favcour": "#bsc_statistics#bsc_maths#Biology-Maths#bsc_computer_science#economics/arts#CompSci-Maths",
     "favcourcorl": "#0.9999999999999998#0.9433674358115994#0.9240168324218908#0.5#0.03455989560162509#0.016802618724168855",
     "input": "bsc_statistics"
   },
@@ -296,7 +296,7 @@
     "input": "bsc_home_science"
   },
   {
-    "favcour": "#bsc_agriculture#bsc_food_technology#agriculture_and_food_engineering#bsc_forestry#bsc_botany#environmental_engineering#g3#g2",
+    "favcour": "#bsc_agriculture#bsc_food_technology#agriculture_and_food_engineering#bsc_forestry#bsc_botany#environmental_engineering#economics/arts#CompSci-Maths",
     "favcourcorl": "#1.0#0.9999999999999999#0.8660254037844387#0.7559289460184544#0.75#0.5958607879522988#0.08653946167670291#0.013960839442322112",
     "input": "bsc_agriculture"
   },
@@ -326,57 +326,57 @@
     "input": "bsc_bioinformatics"
   },
   {
-    "favcour": "#bba#bsc_computer_science#electronics_engineering#electrical_engineering#bsc_electronic#bsc_statistics#g3#bsc_maths",
+    "favcour": "#bba#bsc_computer_science#electronics_engineering#electrical_engineering#bsc_electronic#bsc_statistics#economics/arts#bsc_maths",
     "favcourcorl": "#0.9999999999999999#0.9999999999999999#0.8660254037844387#0.5000000000000001#0.5000000000000001#0.5#0.42365927286816174#0.32483762177352626",
     "input": "bsc_computer_science"
   },
   {
-    "favcour": "#bsc_dietetics#g2#bsc_sports_science",
+    "favcour": "#bsc_dietetics#CompSci-Maths#bsc_sports_science",
     "favcourcorl": "#1.0#0.3227486121839514#0.2773500981126145",
     "input": "bsc_dietetics"
   },
   {
-    "favcour": "#bsc_electronic#electrical_engineering#g2#bsc_computer_science",
+    "favcour": "#bsc_electronic#electrical_engineering#CompSci-Maths#bsc_computer_science",
     "favcourcorl": "#1.0#1.0#0.8221921916437787#0.5000000000000001",
     "input": "bsc_electronic"
   },
   {
-    "favcour": "#bsc_fashion_technology#g2#g1",
+    "favcour": "#bsc_fashion_technology#CompSci-Maths#Biology-Maths",
     "favcourcorl": "#0.9999999999999999#0.7898146473051764#0.6965260331469924",
     "input": "bsc_fashion_technology"
   },
   {
-    "favcour": "#bsc_food_technology#bsc_agriculture#bsc_botany#bsc_forestry#bsc_zoology#environmental_engineering#g3",
+    "favcour": "#bsc_food_technology#bsc_agriculture#bsc_botany#bsc_forestry#bsc_zoology#environmental_engineering#economics/arts",
     "favcourcorl": "#1.0#0.9999999999999999#0.9999999999999999#0.9999999999999999#0.9999999999999999#0.4193139346887673#0.2659489427040308",
     "input": "bsc_food_technology"
   },
   {
-    "favcour": "#g2#bsc_forensic_science#g1",
+    "favcour": "#CompSci-Maths#bsc_forensic_science#Biology-Maths",
     "favcourcorl": "#0.9999999999999999#0.9999999999999998#0.654653670707977",
     "input": "bsc_forensic_science"
   },
   {
-    "favcour": "#bsc_food_technology#bsc_forestry#bsc_nutrition#bsc_agriculture#environmental_engineering#bsc_biotechnology#g1#bsc_botany",
+    "favcour": "#bsc_food_technology#bsc_forestry#bsc_nutrition#bsc_agriculture#environmental_engineering#bsc_biotechnology#Biology-Maths#bsc_botany",
     "favcourcorl": "#0.9999999999999999#0.9999999999999999#0.9999999999999999#0.7559289460184544#0.6546536707079771#0.5#0.46740201605326304#0.01768872844193064",
     "input": "bsc_forestry"
   },
   {
-    "favcour": "#bsc_medical_technology#g2",
+    "favcour": "#bsc_medical_technology#CompSci-Maths",
     "favcourcorl": "#1.0#0.07495316889958614",
     "input": "bsc_medical_technology"
   },
   {
-    "favcour": "#bsc_microbiology#bsc_speech_therapy#bsc_nursing#bsc_zoology#bsc_botany#g1#g2",
+    "favcour": "#bsc_microbiology#bsc_speech_therapy#bsc_nursing#bsc_zoology#bsc_botany#Biology-Maths#CompSci-Maths",
     "favcourcorl": "#1.0#0.9999999999999999#0.6428571428571428#0.20005557871442567#0.07052727217133421#0.051780813833433345#0.03295310813728098",
     "input": "bsc_microbiology"
   },
   {
-    "favcour": "#bsc_multimedia#g1",
+    "favcour": "#bsc_multimedia#Biology-Maths",
     "favcourcorl": "#0.9999999999999999#0.4883720930232558",
     "input": "bsc_multimedia"
   },
   {
-    "favcour": "#bsc_nautical_science#g1",
+    "favcour": "#bsc_nautical_science#Biology-Maths",
     "favcourcorl": "#0.9999999999999999#0.9999999999999999",
     "input": "bsc_nautical_science"
   },
@@ -391,42 +391,42 @@
     "input": "bsc_nutrition"
   },
   {
-    "favcour": "#bsc_physiotherapy#g1#bums#baslp_bachelor_of_audiology_speech_language_pathology",
+    "favcour": "#bsc_physiotherapy#Biology-Maths#bums#baslp_bachelor_of_audiology_speech_language_pathology",
     "favcourcorl": "#1.0#0.39652579285907225#0.3952847075210474#0.06666666666666667",
     "input": "bsc_physiotherapy"
   },
   {
-    "favcour": "#g2#bsc_psychology#g1",
+    "favcour": "#CompSci-Maths#bsc_psychology#Biology-Maths",
     "favcourcorl": "#1.0#0.9999999999999999#0.9999999999999999",
     "input": "bsc_psychology"
   },
   {
-    "favcour": "#bot_bachelor_of_occupational_therapy#bpharm_bachelor_of_pharmacy#bsc_genetics#bums#water_resources_engineering#bhms#bsc_bioinformatics#bsc_botany#bsc_biotechnology#mbbs#g1#bsc_zoology",
+    "favcour": "#bot_bachelor_of_occupational_therapy#bpharm_bachelor_of_pharmacy#bsc_genetics#bums#water_resources_engineering#bhms#bsc_bioinformatics#bsc_botany#bsc_biotechnology#mbbs#Biology-Maths#bsc_zoology",
     "favcourcorl": "#1.0#1.0#1.0#1.0#0.9999999999999999#0.9999999999999999#0.75#0.5056498968474316#0.45531404734081343#0.3711537444790451#0.15498369746904705#0.03316790634033297",
     "input": "bsc_genetics"
   },
   {
-    "favcour": "#bsc_information_technology#bsc_zoology#g2#bsc_physics",
+    "favcour": "#bsc_information_technology#bsc_zoology#CompSci-Maths#bsc_physics",
     "favcourcorl": "#0.9999999999999999#0.9999999999999999#0.3165565421576398#0.2401922307076307",
     "input": "bsc_information_technology"
   },
   {
-    "favcour": "#bsc_interior_design#ba_drawing_and_painting#g1",
+    "favcour": "#bsc_interior_design#ba_drawing_and_painting#Biology-Maths",
     "favcourcorl": "#1.0#0.8660254037844387#0.8660254037844387",
     "input": "bsc_interior_design"
   },
   {
-    "favcour": "#bsc_biotechnology#water_resources_engineering#bsc_nursing#bsc_forestry#bsc_genetics#biotechnology_engineering#bsc_bioinformatics#g2",
+    "favcour": "#bsc_biotechnology#water_resources_engineering#bsc_nursing#bsc_forestry#bsc_genetics#biotechnology_engineering#bsc_bioinformatics#CompSci-Maths",
     "favcourcorl": "#1.0#0.6546536707079771#0.5000000000000001#0.5#0.4553140473408135#0.30151134457776363#0.2565562596576069#0.08684410999797729",
     "input": "bsc_biotechnology"
   },
   {
-    "favcour": "#b_com#bba#g3",
+    "favcour": "#b_com#bba#economics/arts",
     "favcourcorl": "#1.0#1.0#0.05241424183609594",
     "input": "b_com"
   },
   {
-    "favcour": "#g3#llb ",
+    "favcour": "#economics/arts#llb ",
     "favcourcorl": "#1.0#1.0",
     "input": "llb "
   },
@@ -436,7 +436,7 @@
     "input": "aerospac_engineering"
   },
   {
-    "favcour": "#agriculture_and_food_engineering#bsc_agriculture#g2#environmental_engineering#g1",
+    "favcour": "#agriculture_and_food_engineering#bsc_agriculture#CompSci-Maths#environmental_engineering#Biology-Maths",
     "favcourcorl": "#1.0#0.8660254037844387#0.7748388442260595#0.6546536707079771#0.043852900965351424",
     "input": "agriculture_and_food_engineering"
   },
@@ -446,7 +446,7 @@
     "input": "automobile_engineering"
   },
   {
-    "favcour": "#biotechnology_engineering#environmental_engineering#petroleum_engineering#bsc_zoology#bsc_botany#bsc_biotechnology#g1",
+    "favcour": "#biotechnology_engineering#environmental_engineering#petroleum_engineering#bsc_zoology#bsc_botany#bsc_biotechnology#Biology-Maths",
     "favcourcorl": "#1.0#0.9999999999999999#0.9999999999999999#0.8660254037844385#0.4061811972299616#0.3015113445777637#0.1386750490563072",
     "input": "biotechnology_engineering"
   },
@@ -486,7 +486,7 @@
     "input": "engineering_physics"
   },
   {
-    "favcour": "#environmental_engineering#bsc_horticulture#biotechnology_engineering#bsc_home_science#ceramic_engineering#bsc_forestry#agriculture_and_food_engineering#bsc_agriculture#bsc_environmental_science#bsc_food_technology#g2",
+    "favcour": "#environmental_engineering#bsc_horticulture#biotechnology_engineering#bsc_home_science#ceramic_engineering#bsc_forestry#agriculture_and_food_engineering#bsc_agriculture#bsc_environmental_science#bsc_food_technology#CompSci-Maths",
     "favcourcorl": "#1.0#1.0#0.9999999999999999#0.944911182523068#0.8322397195638239#0.6546536707079771#0.6546536707079771#0.5958607879522988#0.4631392019471828#0.4193139346887673#0.3339362845187969",
     "input": "environmental_engineering"
   },
@@ -506,7 +506,7 @@
     "input": "information_technology_engineering"
   },
   {
-    "favcour": "#instrumentation_engineering#g1",
+    "favcour": "#instrumentation_engineering#Biology-Maths",
     "favcourcorl": "#1.0#0.40824829046386296",
     "input": "instrumentation_engineering"
   },
@@ -526,7 +526,7 @@
     "input": "metallurgical_engineering"
   },
   {
-    "favcour": "#naval_architecture_and_ocean_engineering#marine_engineering#g2",
+    "favcour": "#naval_architecture_and_ocean_engineering#marine_engineering#CompSci-Maths",
     "favcourcorl": "#0.9999999999999999#0.7234097793129283#0.08219949365267865",
     "input": "naval_architecture_and_ocean_engineering"
   },
@@ -546,12 +546,12 @@
     "input": "production_and_industrial_engineering"
   },
   {
-    "favcour": "#structural_engineering#ceramic_engineering#materials_engineering#g2",
+    "favcour": "#structural_engineering#ceramic_engineering#materials_engineering#CompSci-Maths",
     "favcourcorl": "#1.0#0.9999999999999999#0.7559289460184545#0.5834500350116708",
     "input": "structural_engineering"
   },
   {
-    "favcour": "#industrial_engineering#motorsport_engineering#molecular_engineering#metallurgical_engineering#mechanical_engineering#g2",
+    "favcour": "#industrial_engineering#motorsport_engineering#molecular_engineering#metallurgical_engineering#mechanical_engineering#CompSci-Maths",
     "favcourcorl": "#1.0#1.0#0.9999999999999999#0.9215506405654282#0.5969620057957091#0.5188745216627708",
     "input": "motorsport_engineering"
   },
@@ -561,7 +561,7 @@
     "input": "fire_protection_engineering"
   },
   {
-    "favcour": "#naval_engineering#g2",
+    "favcour": "#naval_engineering#CompSci-Maths",
     "favcourcorl": "#1.0#0.3651483716701107",
     "input": "naval_engineering"
   },
@@ -571,7 +571,7 @@
     "input": "corrosion_engineering"
   },
   {
-    "favcour": "#materials_engineering#structural_engineering#molecular_engineering#process_engineering#g2",
+    "favcour": "#materials_engineering#structural_engineering#molecular_engineering#process_engineering#CompSci-Maths",
     "favcourcorl": "#0.9999999999999998#0.7559289460184545#0.7161148740394329#0.31100889556157085#0.16657063285479434",
     "input": "materials_engineering"
   },
@@ -591,17 +591,17 @@
     "input": "corrosion_engineering"
   },
   {
-    "favcour": "#environmental_engineering#bsc_horticulture#biotechnology_engineering#bsc_home_science#ceramic_engineering#bsc_forestry#agriculture_and_food_engineering#bsc_agriculture#bsc_environmental_science#bsc_food_technology#g2",
+    "favcour": "#environmental_engineering#bsc_horticulture#biotechnology_engineering#bsc_home_science#ceramic_engineering#bsc_forestry#agriculture_and_food_engineering#bsc_agriculture#bsc_environmental_science#bsc_food_technology#CompSci-Maths",
     "favcourcorl": "#1.0#1.0#0.9999999999999999#0.944911182523068#0.8322397195638239#0.6546536707079771#0.6546536707079771#0.5958607879522988#0.4631392019471828#0.4193139346887673#0.3339362845187969",
     "input": "environmental_engineering"
   },
   {
-    "favcour": "#water_resources_engineering#bsc_genetics#mechanical_engineering#bsc_biotechnology#g2#bsc_zoology#g1",
+    "favcour": "#water_resources_engineering#bsc_genetics#mechanical_engineering#bsc_biotechnology#CompSci-Maths#bsc_zoology#Biology-Maths",
     "favcourcorl": "#1.0#0.9999999999999999#0.9999999999999999#0.6546536707079771#0.40300881799602145#0.13005121775247105#0.06106194212060933",
     "input": "water_resources_engineering"
   },
   {
-    "favcour": "#bot_bachelor_of_occupational_therapy#mbbs#g1#bsc_nursing#bds#bsc_genetics# pharm_d#bpharm_bachelor_of_pharmacy#baslp_bachelor_of_audiology_speech_language_pathology#bpt_physiotherapy#bhms",
+    "favcour": "#bot_bachelor_of_occupational_therapy#mbbs#Biology-Maths#bsc_nursing#bds#bsc_genetics# pharm_d#bpharm_bachelor_of_pharmacy#baslp_bachelor_of_audiology_speech_language_pathology#bpt_physiotherapy#bhms",
     "favcourcorl": "#1.0#1.0#0.8393750648220737#0.5403222859449625#0.47995494163673447#0.3711537444790451#0.31238426942085806#0.2926675359465791#0.2773500981126145#0.11470786693528091#0.051791235524408515",
     "input": "mbbs"
   },
@@ -616,27 +616,27 @@
     "input": "bsc_nursing"
   },
   {
-    "favcour": "#bpharm_bachelor_of_pharmacy#bsc_genetics#bsc_zoology# pharm_d#bsc_nursing#bpt_physiotherapy#mbbs#bds#g1",
+    "favcour": "#bpharm_bachelor_of_pharmacy#bsc_genetics#bsc_zoology# pharm_d#bsc_nursing#bpt_physiotherapy#mbbs#bds#Biology-Maths",
     "favcourcorl": "#1.0#1.0#0.944911182523068#0.6623360560149459#0.6459663176805028#0.560611910581388#0.2926675359465791#0.22492723230620007#0.07211221465358642",
     "input": "bpharm_bachelor_of_pharmacy"
   },
   {
-    "favcour": "# pharm_d#bpharm_bachelor_of_pharmacy#mbbs#bsc_nursing#bds#g1",
+    "favcour": "# pharm_d#bpharm_bachelor_of_pharmacy#mbbs#bsc_nursing#bds#Biology-Maths",
     "favcourcorl": "#1.0#0.662336056014946#0.31238426942085806#0.19488264426220098#0.13512462548518148#0.06150692760785473",
     "input": " pharm_d"
   },
   {
-    "favcour": "#bhms#bpt_physiotherapy#bsc_genetics#bsc_occupational_therapy#bums#bot_bachelor_of_occupational_therapy#bsc_nursing#g1#mbbs",
+    "favcour": "#bhms#bpt_physiotherapy#bsc_genetics#bsc_occupational_therapy#bums#bot_bachelor_of_occupational_therapy#bsc_nursing#Biology-Maths#mbbs",
     "favcourcorl": "#1.0#1.0#0.9999999999999999#0.9999999999999999#0.8754695826968961#0.7924058156930615#0.21633624888217282#0.12580490207067804#0.051791235524408515",
     "input": "bhms"
   },
   {
-    "favcour": "#bot_bachelor_of_occupational_therapy#bsc_genetics#bums#bhms#bsc_physiotherapy#g1",
+    "favcour": "#bot_bachelor_of_occupational_therapy#bsc_genetics#bums#bhms#bsc_physiotherapy#Biology-Maths",
     "favcourcorl": "#1.0#1.0#1.0#0.8754695826968962#0.3952847075210474#0.15734186912851272",
     "input": "bums"
   },
   {
-    "favcour": "#bhms#bpt_physiotherapy#bot_bachelor_of_occupational_therapy#bpharm_bachelor_of_pharmacy#g1#mbbs",
+    "favcour": "#bhms#bpt_physiotherapy#bot_bachelor_of_occupational_therapy#bpharm_bachelor_of_pharmacy#Biology-Maths#mbbs",
     "favcourcorl": "#1.0#1.0#0.8904642299886247#0.5606119105813882#0.4254814716983816#0.1147078669352809",
     "input": "bpt_physiotherapy"
   },
@@ -651,12 +651,12 @@
     "input": "baslp_bachelor_of_audiology_speech_language_pathology"
   },
   {
-    "favcour": "#bsc_environmental_science#g2#g1#environmental_engineering#bsc_botany",
+    "favcour": "#bsc_environmental_science#CompSci-Maths#Biology-Maths#environmental_engineering#bsc_botany",
     "favcourcorl": "#0.9999999999999999#0.6708203932499368#0.5547001962252291#0.4631392019471828#0.3458572319330373",
     "input": "bsc_environmental_science"
   },
   {
-    "favcour": "#bsc_biotechnology#water_resources_engineering#bsc_nursing#bsc_forestry#bsc_genetics#biotechnology_engineering#bsc_bioinformatics#g2",
+    "favcour": "#bsc_biotechnology#water_resources_engineering#bsc_nursing#bsc_forestry#bsc_genetics#biotechnology_engineering#bsc_bioinformatics#CompSci-Maths",
     "favcourcorl": "#1.0#0.6546536707079771#0.5000000000000001#0.5#0.4553140473408135#0.30151134457776363#0.2565562596576069#0.08684410999797729",
     "input": "bsc_biotechnology"
   },
@@ -666,7 +666,7 @@
     "input": "bsc_occupational_therapy"
   },
   {
-    "favcour": "#bsc_physiotherapy#g1#bums#baslp_bachelor_of_audiology_speech_language_pathology",
+    "favcour": "#bsc_physiotherapy#Biology-Maths#bums#baslp_bachelor_of_audiology_speech_language_pathology",
     "favcourcorl": "#1.0#0.39652579285907225#0.3952847075210474#0.06666666666666667",
     "input": "bsc_physiotherapy"
   },
@@ -686,22 +686,22 @@
     "input": "bsc_anthropology"
   },
   {
-    "favcour": "#bsc_microbiology#bsc_speech_therapy#bsc_nursing#bsc_zoology#bsc_botany#g1#g2",
+    "favcour": "#bsc_microbiology#bsc_speech_therapy#bsc_nursing#bsc_zoology#bsc_botany#Biology-Maths#CompSci-Maths",
     "favcourcorl": "#1.0#0.9999999999999999#0.6428571428571428#0.20005557871442567#0.07052727217133421#0.051780813833433345#0.03295310813728098",
     "input": "bsc_microbiology"
   },
   {
-    "favcour": "#bfsc_fisheries_science#bsc_food_technology#bsc_biochemistry#bsc_zoology#bsc_information_technology#bpharm_bachelor_of_pharmacy#biotechnology_engineering#bsc_health_science_and_nutrition#marine_engineering#bsc_microbiology#bsc_botany#water_resources_engineering#g1#bsc_genetics",
+    "favcour": "#bfsc_fisheries_science#bsc_food_technology#bsc_biochemistry#bsc_zoology#bsc_information_technology#bpharm_bachelor_of_pharmacy#biotechnology_engineering#bsc_health_science_and_nutrition#marine_engineering#bsc_microbiology#bsc_botany#water_resources_engineering#Biology-Maths#bsc_genetics",
     "favcourcorl": "#0.9999999999999999#0.9999999999999999#0.9999999999999999#0.9999999999999998#0.9999999999999998#0.944911182523068#0.8660254037844385#0.6933752452815366#0.5000000000000001#0.20005557871442567#0.18460367521516027#0.13005121775247103#0.09904226986143264#0.03316790634033297",
     "input": "bsc_zoology"
   },
   {
-    "favcour": "#g2#bsc_forensic_science#g1",
+    "favcour": "#CompSci-Maths#bsc_forensic_science#Biology-Maths",
     "favcourcorl": "#0.9999999999999999#0.9999999999999998#0.654653670707977",
     "input": "bsc_forensic_science"
   },
   {
-    "favcour": "#bsc_agriculture#bsc_food_technology#agriculture_and_food_engineering#bsc_forestry#bsc_botany#environmental_engineering#g3#g2",
+    "favcour": "#bsc_agriculture#bsc_food_technology#agriculture_and_food_engineering#bsc_forestry#bsc_botany#environmental_engineering#economics/arts#CompSci-Maths",
     "favcourcorl": "#1.0#0.9999999999999999#0.8660254037844387#0.7559289460184544#0.75#0.5958607879522988#0.08653946167670291#0.013960839442322112",
     "input": "bsc_agriculture"
   },
@@ -726,17 +726,17 @@
     "input": "bsc_horticulture"
   },
   {
-    "favcour": "#bot_bachelor_of_occupational_therapy#bpharm_bachelor_of_pharmacy#bsc_genetics#bums#water_resources_engineering#bhms#bsc_bioinformatics#bsc_botany#bsc_biotechnology#mbbs#g1#bsc_zoology",
+    "favcour": "#bot_bachelor_of_occupational_therapy#bpharm_bachelor_of_pharmacy#bsc_genetics#bums#water_resources_engineering#bhms#bsc_bioinformatics#bsc_botany#bsc_biotechnology#mbbs#Biology-Maths#bsc_zoology",
     "favcourcorl": "#1.0#1.0#1.0#1.0#0.9999999999999999#0.9999999999999999#0.75#0.5056498968474316#0.45531404734081343#0.3711537444790451#0.15498369746904705#0.03316790634033297",
     "input": "bsc_genetics"
   },
   {
-    "favcour": "#bsc_health_science_and_nutrition#bsc_occupational_therapy#bsc_zoology#g1",
+    "favcour": "#bsc_health_science_and_nutrition#bsc_occupational_therapy#bsc_zoology#Biology-Maths",
     "favcourcorl": "#1.0#1.0#0.6933752452815365#0.43497511917084863",
     "input": "bsc_health_science_and_nutrition"
   },
   {
-    "favcour": "#bsc_sports_science#bsc_nursing#g1#g2#bsc_dietetics",
+    "favcour": "#bsc_sports_science#bsc_nursing#Biology-Maths#CompSci-Maths#bsc_dietetics",
     "favcourcorl": "#1.0#0.7559289460184544#0.7332132200228391#0.5738190417570045#0.2773500981126145",
     "input": "bsc_sports_science"
   },
@@ -751,18 +751,18 @@
     "input": "bsc_botany"
   },
   {
-    "favcour": "#g1#ba_criminology#bsc_nautical_science#bsc_psychology#bsc_statistics#bsc_interior_design#mbbs#bsc_sports_science#bsc_fashion_technology#bsc_forensic_science#ba_geography#ba_tamil#ba_defence_and_strategic_studies#bsc_environmental_science#bsc_multimedia#bsc_forestry#bsc_health_science_and_nutrition#ba_drawing_and_painting#bpt_physiotherapy#instrumentation_engineering#bsc_physiotherapy#bsc_maths#g2#bums#bsc_genetics#biotechnology_engineering#ba_political_science#bhms#bsc_zoology#bpharm_bachelor_of_pharmacy# pharm_d#water_resources_engineering#bsc_microbiology#agriculture_and_food_engineering",
+    "favcour": "#Biology-Maths#ba_criminology#bsc_nautical_science#bsc_psychology#bsc_statistics#bsc_interior_design#mbbs#bsc_sports_science#bsc_fashion_technology#bsc_forensic_science#ba_geography#ba_tamil#ba_defence_and_strategic_studies#bsc_environmental_science#bsc_multimedia#bsc_forestry#bsc_health_science_and_nutrition#ba_drawing_and_painting#bpt_physiotherapy#instrumentation_engineering#bsc_physiotherapy#bsc_maths#CompSci-Maths#bums#bsc_genetics#biotechnology_engineering#ba_political_science#bhms#bsc_zoology#bpharm_bachelor_of_pharmacy# pharm_d#water_resources_engineering#bsc_microbiology#agriculture_and_food_engineering",
     "favcourcorl": "#1.0#1.0#0.9999999999999999#0.9999999999999999#0.9240168324218908#0.8660254037844387#0.8393750648220738#0.7332132200228392#0.6965260331469922#0.654653670707977#0.6000000000000002#0.5960395606792698#0.5765566601970551#0.5547001962252291#0.4883720930232558#0.46740201605326304#0.43497511917084863#0.42562826537937426#0.42548147169838163#0.4082482904638629#0.39652579285907225#0.3497753177207346#0.20018836473519735#0.15734186912851272#0.15498369746904703#0.1386750490563072#0.13245323570650436#0.12580490207067804#0.09904226986143264#0.07211221465358642#0.06150692760785473#0.06106194212060933#0.05178081383343335#0.043852900965351424",
-    "input": "g1"
+    "input": "Biology-Maths"
   },
   {
-    "favcour": "#bsc_psychology#bsc_forensic_science#g2#bsc_electronic#bsc_fashion_technology#agriculture_and_food_engineering#bsc_environmental_science#structural_engineering#bsc_sports_science#motorsport_engineering#bsc_chemistry#bsc_physics#water_resources_engineering#naval_engineering#environmental_engineering#bsc_dietetics#bsc_information_technology#ba_english#g1#materials_engineering#ba_history#bba#bsc_biotechnology#naval_architecture_and_ocean_engineering#bsc_medical_technology#bsc_microbiology#bsc_statistics#bsc_agriculture",
+    "favcour": "#bsc_psychology#bsc_forensic_science#CompSci-Maths#bsc_electronic#bsc_fashion_technology#agriculture_and_food_engineering#bsc_environmental_science#structural_engineering#bsc_sports_science#motorsport_engineering#bsc_chemistry#bsc_physics#water_resources_engineering#naval_engineering#environmental_engineering#bsc_dietetics#bsc_information_technology#ba_english#Biology-Maths#materials_engineering#ba_history#bba#bsc_biotechnology#naval_architecture_and_ocean_engineering#bsc_medical_technology#bsc_microbiology#bsc_statistics#bsc_agriculture",
     "favcourcorl": "#1.0#1.0#0.9999999999999998#0.8221921916437785#0.7898146473051764#0.7748388442260595#0.6708203932499368#0.5834500350116708#0.5738190417570045#0.5188745216627708#0.44459061923690013#0.43082021842766455#0.40300881799602145#0.36514837167011077#0.33393628451879687#0.32274861218395146#0.3165565421576398#0.21627614555592958#0.20018836473519738#0.16657063285479434#0.16035674514745465#0.1509031106344268#0.08684410999797729#0.08219949365267865#0.07495316889958614#0.03295310813728098#0.016802618724168855#0.013960839442322112",
-    "input": "g2"
+    "input": "CompSci-Maths"
   },
   {
-    "favcour": "#llb #ba_criminology#ba_japanese#g3#ba_agro_sciences#ba_photography#ba_defence_and_strategic_studies#ba_culinary_art#ba_airlines, hospitality_and_custome_care#ba_journalism#ba_social_work#ba_philosophy#bsc_computer_science#ba_rural_studies#ba_economics#bsc_food_technology#ba_drawing_and_painting#bsc_maths#ba_political_science#bsc_agriculture#b_com#bsc_statistics",
+    "favcour": "#llb #ba_criminology#ba_japanese#economics/arts#ba_agro_sciences#ba_photography#ba_defence_and_strategic_studies#ba_culinary_art#ba_airlines, hospitality_and_custome_care#ba_journalism#ba_social_work#ba_philosophy#bsc_computer_science#ba_rural_studies#ba_economics#bsc_food_technology#ba_drawing_and_painting#bsc_maths#ba_political_science#bsc_agriculture#b_com#bsc_statistics",
     "favcourcorl": "#1.0#0.9999999999999999#0.9999999999999999#0.9999999999999999#0.9999999999999999#0.9707253433941511#0.9449111825230679#0.8660254037844385#0.6831300510639732#0.6831300510639732#0.5144957554275265#0.4274373669939282#0.42365927286816174#0.4225771273642583#0.31108550841912763#0.26594894270403086#0.25537695922762443#0.18511804120656908#0.13245323570650436#0.08653946167670291#0.05241424183609595#0.03455989560162509",
-    "input": "g3"
+    "input": "economics/arts"
   }
 ]
